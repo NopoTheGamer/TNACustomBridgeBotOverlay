@@ -1,0 +1,58 @@
+[13:27:34] [Client thread/INFO]: Setting user: JimmyWasHere
+[13:27:35] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:27:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TAN Mod
+[13:27:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:27:39] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[13:27:39] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:27:39] [Thread-10/INFO]: OpenAL initialized.
+[13:27:40] [Sound Library Loader/INFO]: Sound engine started
+[13:27:44] [Client thread/INFO]: Created: 16x16 textures-atlas
+[13:27:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TAN Mod
+[13:27:45] [Client thread/INFO]: SoundSystem shutting down...
+[13:27:45] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:27:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:27:45] [Thread-12/INFO]: Initializing LWJGL OpenAL
+[13:27:45] [Thread-12/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:27:45] [Thread-12/INFO]: OpenAL initialized.
+[13:27:46] [Sound Library Loader/INFO]: Sound engine started
+[13:27:50] [Client thread/INFO]: Created: 512x512 textures-atlas
+[13:28:17] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[13:28:20] [Client thread/INFO]: [CHAT]                                      
+[13:28:20] [Client thread/INFO]: [CHAT]                          
+[13:28:20] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] JimmyWasHere§f §6slid into the lobby!
+[13:28:21] [Client thread/INFO]: [CHAT] §aYou have §61 §aunclaimed achievement reward!
+[13:28:21] [Client thread/INFO]: [CHAT] §eClick here to view it!
+[13:28:21] [Client thread/INFO]: [CHAT] 
+[13:28:21] [Client thread/INFO]: [CHAT] §f§lHAPPY HOLIDAYS §e§lFROM HYPIXEL
+§aYou may claim today's §bAdvent Calendar §areward!
+§eClick here to claim!
+
+[13:28:21] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[13:28:21] [Client thread/INFO]: [CHAT] Reminder to not download ANY mods from anyone sent directly, or anything for that matter. Seems pretty obvious but I thought i'd make sure
+[13:28:21] [Client thread/INFO]: [CHAT] Even from guild mates or members, for example someone here got hacked and tried to send ''new sba''. Stay safe!
+[13:28:21] [Client thread/INFO]: [CHAT] Boop!
+[13:28:21] [Client thread/INFO]: [CHAT] .
+[13:28:21] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[13:28:28] [Client thread/INFO]: [CHAT] §7[22✫] §b[MVP§c+§b] koowlIpotato_5§f: HELPP
+[13:28:31] [Client thread/INFO]: [CHAT] §7[30✫] §a[VIP] Hornylittlepen1s§f: what
+[13:28:35] [Client thread/INFO]: [CHAT] ✦ [MVP+] Insented found an Epic Wizard Wand Gadget in a Mystery Box!
+[13:28:42] [Client thread/INFO]: [CHAT] §7[22✫] §b[MVP§c+§b] koowlIpotato_5§f: should i get toy stick or wait
+[13:28:43] [Client thread/INFO]: [CHAT]  §b>§c>§a>§r §6[MVP§2++§6] AugBorn§f §6slid into the lobby! §a<§c<§b<
+[13:28:46] [Client thread/INFO]: [CHAT] §b[MVP§d+§b] hilboy§f §6slid into the lobby!
+[13:28:47] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] KatfishEverdeen §6[Necron]§f: bid on my AH
+[13:28:48] [Client thread/INFO]: [CHAT] §5Bridge > §6JimmyWasHere§f: a
+[13:28:50] [Client thread/INFO]: [CHAT] §7[30✫] §a[VIP] Hornylittlepen1s§f: ya get it
+[13:28:50] [Client thread/INFO]: [CHAT] §7[22✫] §b[MVP§c+§b] koowlIpotato_5§f: for loot chest
+[13:28:51] [Client thread/INFO]: [CHAT] §b[MVP§8+§b] Moduli§f §6slid into the lobby!
+[13:28:52] [Client thread/INFO]: [CHAT] §b[MVP§e+§b] Snapperito§f §6slid into the lobby!
+[13:28:54] [Client thread/INFO]: [CHAT] §7[22✫] §b[MVP§c+§b] koowlIpotato_5§f: bcs
+[13:28:54] [Client thread/INFO]: [CHAT] §7[30✫] §a[VIP] Hornylittlepen1s§f: its fr cool asf
+[13:28:56] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] KatfishEverdeen §6[Necron]§f: like 40m flip i think
+[13:28:57] [Client thread/INFO]: [CHAT] §7[22✫] §b[MVP§c+§b] koowlIpotato_5§f: my brother
+[13:29:00] [Client thread/INFO]: [CHAT] §5Bridge > §6JimmyWasHere§f: poopy
+[13:29:02] [Client thread/INFO]: [CHAT] §b[MVP§6+§b] shootingstar0§f §6slid into the lobby!
+[13:29:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d++§b] WarpTheDragon §6[Necron]§f: e
+[13:29:03] [Client thread/INFO]: [CHAT] §7[22✫] §b[MVP§c+§b] koowlIpotato_5§f: got abonible snowman
+[13:29:05] [Client thread/INFO]: Stopping!
+[13:29:05] [Client thread/INFO]: SoundSystem shutting down...
+[13:29:05] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

@@ -1,0 +1,10 @@
+{
+  "bridge": {
+    "bridgeBot": true,
+    "bridgePrefixColor": 5,
+    "bridgeNameColor": 6
+  },
+  "hidden": {
+    "idkhiddensmth": false
+  }
+}
