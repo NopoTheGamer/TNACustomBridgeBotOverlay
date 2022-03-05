@@ -25,7 +25,7 @@ public class Events {
         NopoMod.INSTANCE.saveConfig();
     }
 
-    private static final Pattern BOT_MESSAGE = Pattern.compile("Guild > TNABridgeBot \\[(.*)]: (.*): (.*)");
+    private static final Pattern BOT_MESSAGE = Pattern.compile("Guild > \\[(.*)] TNABridgeBot \\[(.*)]: (.*): (.*)");
 
     @SubscribeEvent
     public void onChat(ClientChatReceivedEvent event) {
@@ -41,7 +41,7 @@ public class Events {
                 Minecraft.getMinecraft().thePlayer.addChatMessage(new ChatComponentText(
                         EnumChatFormatting.values()[NopoMod.INSTANCE.config.bridge.bridgePrefixColor] + "Bridge > " +
                                 EnumChatFormatting.values()[NopoMod.INSTANCE.config.bridge.bridgeNameColor]
-                                + matcher.group(2) + EnumChatFormatting.WHITE + ": " + matcher.group(3)));
+                                + matcher.group(3) + EnumChatFormatting.WHITE + ": " + matcher.group(4)));
             }
         }
 
